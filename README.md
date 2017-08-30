@@ -1,4 +1,4 @@
-School-Projects
+Reversing Course
 ===============
 
-Different Projects for School
+Capstone Course for CISS 492 at Columbia College, Summer 2016.
